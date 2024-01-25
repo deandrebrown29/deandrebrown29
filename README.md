@@ -1,7 +1,8 @@
 <h1 align="center">🫡 What's Up, I'm Dre Brown</h1>
 <h3 align="center">A inspiring Business Intelligence Analyst from Long Beach, CA, USA</h3>
 
-- 🔭 I’m currently working on [Storytelling with DATA](https://public.tableau.com/shared/Z7KFTX5M7?:display_count=n&:origin=viz_share_link)
+- 🔭 I’m currently working on 
+[(https://public.tableau.com/views/FinalProjectZomatoRestaurantAnalysis/AmountofRatings?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)]
 
 - 🌱 I’m currently learning **How to create a strong Portfolio**
 
