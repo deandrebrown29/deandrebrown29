@@ -1,9 +1,9 @@
 <h1 align="center">🫡 What's Up, I'm Dre Brown</h1>
 <h3 align="center">A inspiring Business Intelligence Analyst from Long Beach, CA, USA</h3>
 
-- 🔭 I’m currently working on **Getting full time employment as a Buisness Intelligence Analyst**
+- 🔭 I’m currently working on **getting full time employment as a Buisness Intelligence Analyst**
 
-- 🌱 I’m currently learning **Computer Science and basic coding via the Brilliant App**
+- 🌱 I’m currently learning **computer science and basic coding via the Brilliant App**
 
 - 📲 How to reach me **d.brown6.29.1994@gmail.com**
 
