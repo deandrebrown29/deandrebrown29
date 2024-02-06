@@ -1,10 +1,9 @@
 <h1 align="center">🫡 What's Up, I'm Dre Brown</h1>
 <h3 align="center">A inspiring Business Intelligence Analyst from Long Beach, CA, USA</h3>
 
-- 🔭 I’m currently working on 
-[(https://public.tableau.com/views/FinalProjectZomatoRestaurantAnalysis/AmountofRatings?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)]
+- 🔭 I’m currently working on **Getting full time employment as a Buisness Intelligence Analyst**
 
-- 🌱 I’m currently learning **How to create a strong Portfolio**
+- 🌱 I’m currently learning **Computer Science and basic coding via the Brilliant App**
 
 - 📲 How to reach me **d.brown6.29.1994@gmail.com**
 
