@@ -3,9 +3,11 @@
 
 - 🔭 I’m currently working on **getting full time employment as a Buisness Intelligence Analyst**
 
-- 🌱 I’m currently learning **computer science and basic coding via the Brilliant App**
+- 🤓 I’m currently learning **computer science and basic coding via the Brilliant App**
 
-- 📲 How to reach me **d.brown6.29.1994@gmail.com**
+- 📲 How to reach me **d.brown6.29.1994@gmail.com or (562) 533-1977**
+
+- 👨🏿‍💻 Most recent project comepleted [Zomato's Restaurant Analysis](https://public.tableau.com/views/FinalProjectZomatoRestaurantAnalysis1stRevision/TableofContentsTheoriesAbstractIntroductionMethod?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link) 
 
 - 📄 Know about my experiences [https://profile.indeed.com/p/deandreb-cc9dics](https://profile.indeed.com/p/deandreb-cc9dics)
 
